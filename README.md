@@ -3,7 +3,7 @@
 ### Acerca de mí
 
 - :computer: **Tecnólogo en Sistemas**
-- :location: **Bogotá, Colombia** :colombia:
+- :round_pushpin: **Ubicación:** Bogotá, Colombia :colombia:
 - :email: **<sebastianfandino13@gmail.com>**
 
 ### Lenguajes
