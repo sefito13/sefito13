@@ -1,6 +1,12 @@
-## Hi there 👋
+## Hola a todos, Soy Sebastian Fandiño 👋
 
+### Acerca de mi
 :computer: **Tecnologo en Sistemas**
+:location: **Bogotá, Colombia** :co:
+:Email: **sebastianfandino13@gmail.com**
+
+### Lenguajes
+
 
 ### Vias de Contacto
 
