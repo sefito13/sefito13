@@ -3,7 +3,7 @@
 ### Acerca de mí
 
 - :computer: **Tecnólogo en Sistemas**
-- :round_pushpin: **Ubicación:** Bogotá, Colombia :colombia:
+- :round_pushpin: **Ubicación:** Zipaquira, Colombia :colombia:
 - :email: **<sebastianfandino13@gmail.com>**
 
 ### Lenguajes
